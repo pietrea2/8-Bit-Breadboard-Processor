@@ -16,7 +16,7 @@ Inspired by [Ben Eater's 8-Bit Breadboard Computer.](https://eater.net/8bit)
 
 ## 2: [8 Bit Registers](https://github.com/pietrea2/8-Bit-Breadboard-Processor/tree/main/2.%208%20Bit%20Registers)
 
-![8 Bit Register Schematic](https://github.com/pietrea2/8-Bit-Breadboard-Processor/blob/main/2.%208%20Bit%20Registers/8%20bit%20register.png)
+![8 Bit Register Schematic](https://github.com/pietrea2/8-Bit-Breadboard-Processor/blob/main/2.%208%20Bit%20Registers/74%20173%20Version/8%20bit%20register%20ver2.png)
 
 &nbsp;
 &nbsp;
