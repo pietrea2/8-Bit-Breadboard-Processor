@@ -20,3 +20,11 @@ Inspired by [Ben Eater's 8-Bit Breadboard Computer.](https://eater.net/8bit)
 
 &nbsp;
 &nbsp;
+
+
+## 3: [ALU](https://github.com/pietrea2/8-Bit-Breadboard-Processor/tree/main/3.%20ALU)
+
+![Basic ALU schematic](https://github.com/pietrea2/8-Bit-Breadboard-Processor/blob/main/3.%20ALU/ALU.png)
+
+&nbsp;
+&nbsp;
